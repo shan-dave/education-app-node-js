@@ -1,0 +1,7 @@
+{
+    "env": "production",
+    "dbConfig": {
+        "url": "mongodb+srv://chirag:Chirag%40manektech@cluster0.5ryiz.mongodb.net/encrypted_education"
+    },
+    "secretKey": "secretKey"
+}
